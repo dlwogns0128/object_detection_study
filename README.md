@@ -7,6 +7,7 @@
 
 - Fast R-CNN (2015) [code - Keras]
 <br/>[[Paper]](https://arxiv.org/abs/1504.08083) Fast R-CNN 
+<br/>[[Article]](http://openresearch.ai/t/fast-r-cnn/240) Fast R-CNN | OpenResearch.ai
 
 - Faster R-CNN (2016) [code - Keras]
 <br/>[[Paper]](https://arxiv.org/abs/1506.01497) Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks  
