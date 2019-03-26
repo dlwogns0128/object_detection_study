@@ -8,6 +8,7 @@
 - Fast R-CNN (2015) [code - Keras]
 <br/>[[Paper]](https://arxiv.org/abs/1504.08083) Fast R-CNN 
 <br/>[[Article]](http://openresearch.ai/t/fast-r-cnn/240) Fast R-CNN | OpenResearch.ai
+<br/>[[Article]](https://github.com/deepsense-ai/roi-pooling) RoI pooling in TensorFlow
 
 - Faster R-CNN (2016) [code - Keras]
 <br/>[[Paper]](https://arxiv.org/abs/1506.01497) Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks  
