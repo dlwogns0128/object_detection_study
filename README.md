@@ -14,6 +14,12 @@
 <br/>[[Paper]](https://arxiv.org/abs/1506.01497) Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks  
 <br/>[[Article]](http://incredible.ai/deep-learning/2018/03/17/Faster-R-CNN/) What is Faster R-CNN | Incredible.AI
 <br/>[[Article]](https://curt-park.github.io/2017-03-17/faster-rcnn/) [분석] Faster R-CNN 
+<br/>[[Article]](https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a) Faster R-CNN (object detection) implemented by Keras for custom data from Google’s Open Images Dataset V4
+<br/>[[Article]](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/) Faster R-CNN: Down the rabbit hole of modern object detection
+<br/>[[Article]](https://zzsza.github.io/data/2018/05/09/Faster-RCNN-review/) Faster R-CNN 논문 리뷰
+<br/>[[Code]](https://github.com/RockyXu66/Faster_RCNN_for_Open_Images_Dataset_Keras) Faster R-CNN for Open Images Dataset by Keras
+<br/>[[Code]](https://github.com/kbardool/keras-frcnn) keras-frcnn
+
 
 - Mask R-CNN (2017) [code - Keras]
 <br/>[[Paper]](https://arxiv.org/abs/1703.06870) Mask R-CNN 
