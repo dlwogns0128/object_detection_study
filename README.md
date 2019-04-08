@@ -21,7 +21,7 @@
 <br/>[[Code]](https://github.com/kbardool/keras-frcnn) keras-frcnn
 
 - YOLO (2016) [code - Keras]
-<br/>[[Paper]](https://arxiv.org/abs/1506.02640)You Only Look Once: Unified, Real-Time Object Detection
+<br/>[[Paper]](https://arxiv.org/abs/1506.02640) You Only Look Once: Unified, Real-Time Object Detection
 <br/>[[Article]](https://curt-park.github.io/2017-03-26/yolo/) [분석] YOLO
 <br/>[[Article]](https://arclab.tistory.com/167) [논문 요약12] You Only Look Once: Unified, Real-TIme Object Detection
 
@@ -31,3 +31,4 @@
 - SSD (2016) [code - Keras]
 <br/>[[Paper]](https://arxiv.org/abs/1512.02325) SSD: Single Shot MultiBox Detector 
 <br/>[[Article]](http://openresearch.ai/t/ssd-single-shot-multibox-detector/74) SSD: Single Shot Multibox Detector | OpenResearch.ai
+<br/>[[Article]](https://taeu.github.io/paper/deeplearning-paper-ssd/) [논문] SSD: Single Shot Multibox Detector 분석
