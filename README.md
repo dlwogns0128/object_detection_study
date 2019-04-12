@@ -11,7 +11,7 @@
 <br/>[[Article]](https://github.com/deepsense-ai/roi-pooling) RoI pooling in TensorFlow
 
 - Faster R-CNN (2016) [code - Keras]
-<br/>[[Paper]](https://arxiv.org/abs/1506.01497) Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks  
+<br/>[[Paper]](https://arxiv.org/abs/1506.01497) Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
 <br/>[[Article]](http://incredible.ai/deep-learning/2018/03/17/Faster-R-CNN/) What is Faster R-CNN | Incredible.AI
 <br/>[[Article]](https://curt-park.github.io/2017-03-17/faster-rcnn/) [분석] Faster R-CNN 
 <br/>[[Article]](https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a) Faster R-CNN (object detection) implemented by Keras for custom data from Google’s Open Images Dataset V4
@@ -32,3 +32,16 @@
 <br/>[[Paper]](https://arxiv.org/abs/1512.02325) SSD: Single Shot MultiBox Detector 
 <br/>[[Article]](http://openresearch.ai/t/ssd-single-shot-multibox-detector/74) SSD: Single Shot Multibox Detector | OpenResearch.ai
 <br/>[[Article]](https://taeu.github.io/paper/deeplearning-paper-ssd/) [논문] SSD: Single Shot Multibox Detector 분석
+<br/>[[Article]](https://medium.com/@jonathan_hui/what-do-we-learn-from-single-shot-object-detectors-ssd-yolo-fpn-focal-loss-3888677c5f4d) What do we learn from single shot object detectors (SSD, YOLOv3), FPN & Focal loss (RetinaNet)?
+
+# 정리가 잘 되어있는 갓블로그
+
+- HOYA012'S RESEARCH BLOG [[Link]](https://hoya012.github.io/)
+<br/>Object Detection관련 논문들 리뷰가 잘 되어있음
+
+- Hello Blog [[Link]](https://curt-park.github.io/)
+<br/>Deep Learning 관련 논문 및 이론 정리가 잘 되어있음
+
+- 어쩐지 오늘은 [[Link]](https://zzsza.github.io/)
+<br/>Kaggle, Machine Learning 등 여러가지 지식들을 잘 설명해줌
+
