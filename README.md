@@ -35,12 +35,8 @@
   <br/>[[Paper]](https://arxiv.org/abs/1605.06409v2) R-FCN: Object Detection via Region-based Fully Convolutional Networks
 
 - RetinaNet (2017) [[code - Keras]](https://github.com/fizyr/keras-retinanet) by fizyr
-
-  <br/>
-
-  [[Paper]](https://arxiv.org/abs/1708.02002) Focal Loss for Dense Object Detection
-
-  [[Article]](https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4) Review: RetinaNet - Focal Loss (Object Detection)
+  <br/>[[Paper]](https://arxiv.org/abs/1708.02002) Focal Loss for Dense Object Detection
+  <br/>[[Article]](https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4) Review: RetinaNet - Focal Loss (Object Detection)
 
 - Mask R-CNN (2017) [[code - Keras]](https://github.com/matterport/Mask_RCNN) by matterport
   <br/>[[Paper]](https://arxiv.org/abs/1703.06870) Mask R-CNN 
