@@ -53,3 +53,10 @@
 - 어쩐지 오늘은 [[Link]](https://zzsza.github.io/)
 <br/>Kaggle, Machine Learning 등 여러가지 지식들을 잘 설명해줌
 
+# CNN Architecture에서 사용된 핵심 기법들
+
+- NMS(non-maximum suppression)
+<br/> Object Detection을 구현하다보면 하나의 object에 여러개의 detection이 가능하여 정확도가 떨어질 수 있다. 따라서 하나의 object에 가장 확률이 높은 detection을 찾아주는 기법이 NMS 알고리즘이다.
+<br/>[[Article]](https://heiwais25.github.io/machinelearning/cnn/2018/05/10/non-maximum-suppression/) Non-Maximum Suppression
+<br/>[[Article]](https://dyndy.tistory.com/275) NMS (non-maximum-suppression)
+<br/>[[Article]](https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.g137784ab86_4_4448) YOLO - deepsystems.io
