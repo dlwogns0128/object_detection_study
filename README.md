@@ -1,9 +1,30 @@
+# Object Detection using Deep Learning
 
-# Object Detection
+
+
+딥러닝을 이용한 Ojbect Detection에 대한 대표 Architecture들을 공부하기 위한 문서입니다.
+
+<u>개인적으로 공부하면서 참고가 되었던 정리가 잘 된 Article들을 정리해 두었습니다</u>. 물론 발표된 논문도 중요합니다 :)
+
+내용 구성은 간단합니다.
+
+**[Architecture 이름 / 발표된 년도 / 구현해볼 수 있는 Code]**
+
+**[Paper url]**
+
+**[정리가 잘 되어있는 Articles]**
+
+![Object Detection History](/Users/jaehoon/projects/object_detection_study/assets/deep_learning_object_detection_history.PNG)
+
+출처: https://github.com/hoya012/deep_learning_object_detection
+
+Hoya012 님께서 친절하게 정리해주신 Object Detection Arcitecture 탄생 순서입니다. <b>빨간색</b>으로 처리된 것들은 핵심 Architecture들로 꼭 보고 가시는 것이 좋습니다.
+
+
 
  - R-CNN (2014) [code - Keras]
-  <br/>[[Paper]](https://arxiv.org/abs/1311.2524) Rich feature hierarchies for accurate object detection and semantic segmentation
-  <br/>[[Article]](https://junn.in/archives/2517) 'Image Segmentation에 대한 짧은 이야기: R-CNN 에서부터 Mask R-CNN까지
+    <br/>[[Paper]](https://arxiv.org/abs/1311.2524) Rich feature hierarchies for accurate object detection and semantic segmentation
+    <br/>[[Article]](https://junn.in/archives/2517) 'Image Segmentation에 대한 짧은 이야기: R-CNN 에서부터 Mask R-CNN까지
 
 - Fast R-CNN (2015) [code - Keras]
   <br/>[[Paper]](https://arxiv.org/abs/1504.08083) Fast R-CNN 
@@ -42,6 +63,7 @@
   <br/>[[Paper]](https://arxiv.org/abs/1703.06870) Mask R-CNN 
 
 
+
 # 정리가 잘 되어있는 갓블로그
 
 - HOYA012'S RESEARCH BLOG [[Link]](https://hoya012.github.io/)
@@ -53,10 +75,18 @@
 - 어쩐지 오늘은 [[Link]](https://zzsza.github.io/)
 <br/>Kaggle, Machine Learning 등 여러가지 지식들을 잘 설명해줌
 
+
+
 # CNN Architecture에서 사용된 핵심 기법들
 
-- NMS(non-maximum suppression)
+
+
+### NMS(non-maximum suppression)
+
 <br/> Object Detection을 구현하다보면 하나의 object에 여러개의 detection이 가능하여 정확도가 떨어질 수 있다. 따라서 하나의 object에 가장 확률이 높은 detection을 찾아주는 기법이 NMS 알고리즘이다.
+
+![NMS](/Users/jaehoon/projects/object_detection_study/assets/NMS.png)
+
 <br/>[[Article]](https://heiwais25.github.io/machinelearning/cnn/2018/05/10/non-maximum-suppression/) Non-Maximum Suppression
 <br/>[[Article]](https://dyndy.tistory.com/275) NMS (non-maximum-suppression)
 <br/>[[Article]](https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.g137784ab86_4_4448) YOLO - deepsystems.io
