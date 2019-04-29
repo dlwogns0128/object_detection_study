@@ -8,17 +8,25 @@
 
 내용 구성은 간단합니다.
 
-**[Architecture 이름 / 발표된 년도 / 구현해볼 수 있는 Code]**
 
-**[Paper url]**
 
-**[정리가 잘 되어있는 Articles]**
+```
+[Architecture 이름 / 발표된 년도 / 구현해볼 수 있는 Code]
 
-![Object Detection History](/Users/jaehoon/projects/object_detection_study/assets/deep_learning_object_detection_history.PNG)
+[Paper url]
+
+[정리가 잘 되어있는 Articles]
+```
+
+
+
+![Object Detection History](assets/deep_learning_object_detection_history.PNG)
 
 출처: https://github.com/hoya012/deep_learning_object_detection
 
 Hoya012 님께서 친절하게 정리해주신 Object Detection Arcitecture 탄생 순서입니다. <b>빨간색</b>으로 처리된 것들은 핵심 Architecture들로 꼭 보고 가시는 것이 좋습니다.
+
+------
 
 
 
@@ -85,7 +93,7 @@ Hoya012 님께서 친절하게 정리해주신 Object Detection Arcitecture 탄�
 
 <br/> Object Detection을 구현하다보면 하나의 object에 여러개의 detection이 가능하여 정확도가 떨어질 수 있다. 따라서 하나의 object에 가장 확률이 높은 detection을 찾아주는 기법이 NMS 알고리즘이다.
 
-![NMS](/Users/jaehoon/projects/object_detection_study/assets/NMS.png)
+![NMS](assets/NMS.png)
 
 <br/>[[Article]](https://heiwais25.github.io/machinelearning/cnn/2018/05/10/non-maximum-suppression/) Non-Maximum Suppression
 <br/>[[Article]](https://dyndy.tistory.com/275) NMS (non-maximum-suppression)
