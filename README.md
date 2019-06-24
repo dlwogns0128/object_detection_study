@@ -89,6 +89,10 @@ tbd :open_mouth:
 - **어쩐지 오늘은** [[Link]](https://zzsza.github.io/)
 <br/>Kaggle, Machine Learning 등 여러가지 지식들을 잘 설명해줌
 
+- **Papers With Code** [[Link]](https://paperswithcode.com/)
+<br/>각 분야별 최신 논문들을 코드와 함께 소개해주는 블로그로
+<br/>Image Classification, Object Detection, Tracking, NLP 등 각 분야들의 State-of-the-art 논문들과 지표를 잘 정리해놓음
+
 
 
 # CNN Architecture에서 사용된 핵심 기법들
