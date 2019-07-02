@@ -34,7 +34,7 @@ Hoya012 님께서 친절하게 정리해주신 Object Detection Arcitecture 탄�
 
  - **R-CNN (2014)** [code - Keras]
     <br/>[[Paper]](https://arxiv.org/abs/1311.2524) Rich feature hierarchies for accurate object detection and semantic segmentation
-    <br/>[[Article]](https://junn.in/archives/2517) 'Image Segmentation에 대한 짧은 이야기: R-CNN 에서부터 Mask R-CNN까지
+    <br/>[[Article]](https://junn.net/archives/2517) Image Segmentation에 대한 짧은 이야기: R-CNN 에서부터 Mask R-CNN까지
 
 - **Fast R-CNN (2015)** [code - Keras]
   <br/>[[Paper]](https://arxiv.org/abs/1504.08083) Fast R-CNN 
