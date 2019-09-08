@@ -34,7 +34,7 @@ Hoya012 님께서 친절하게 정리해주신 Object Detection Arcitecture 탄�
 
 # Architectures
 
-### R-CNN (2014)
+## R-CNN (2014)
 
 ![rcnnpipeline](https://user-images.githubusercontent.com/2151950/64485344-844c6700-d25a-11e9-80c1-84897df5b0e2.jpg)
 
@@ -44,11 +44,9 @@ Hoya012 님께서 친절하게 정리해주신 Object Detection Arcitecture 탄�
 
 
 
-### SPP-Net
+## SPP-Net
 
 ![diff_rcnn_sppnet](https://user-images.githubusercontent.com/2151950/64485429-d346cc00-d25b-11e9-9fe5-89cd83f8b299.png)
-
-![sppnet](https://user-images.githubusercontent.com/2151950/64485417-9ed31000-d25b-11e9-84b5-0f6e6fce3646.png)
 
 - [[code - Keras]](https://github.com/yhenon/keras-spp) by yhenon
 - [[Paper]](https://arxiv.org/abs/1406.4729) Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
@@ -57,11 +55,9 @@ Hoya012 님께서 친절하게 정리해주신 Object Detection Arcitecture 탄�
 
 
 
-### Fast R-CNN (2015)
+## Fast R-CNN (2015)
 
 ![Fast_RCNN](https://user-images.githubusercontent.com/2151950/64485493-7e578580-d25c-11e9-9e6f-cee8dfe10168.png)
-
-![diff_rcnn_fast_rcnn](https://user-images.githubusercontent.com/2151950/64485510-b3fc6e80-d25c-11e9-9f97-5c263480e790.png)
 
 - [code - Keras]
 - [[Paper]](https://arxiv.org/abs/1504.08083) Fast R-CNN 
@@ -70,7 +66,7 @@ Hoya012 님께서 친절하게 정리해주신 Object Detection Arcitecture 탄�
 
 
 
-### Faster R-CNN (2016)
+## Faster R-CNN (2016)
 
 ![faster_rcnn](https://user-images.githubusercontent.com/2151950/64485528-0b024380-d25d-11e9-8b8b-4bec0ecd68c4.png)
 
@@ -86,7 +82,7 @@ Hoya012 님께서 친절하게 정리해주신 Object Detection Arcitecture 탄�
 
 
 
-### YOLO (2016)
+## YOLO (2016)
 
 - [code - Keras]
 - [[Paper]](https://arxiv.org/abs/1506.02640) You Only Look Once: Unified, Real-Time Object Detection
@@ -95,7 +91,7 @@ Hoya012 님께서 친절하게 정리해주신 Object Detection Arcitecture 탄�
 
 
 
-### SSD (2016)
+## SSD (2016)
 
 - [[code - Keras]](https://github.com/pierluigiferrari/ssd_keras) by pierluigiferrari
 - [[Paper]](https://arxiv.org/abs/1512.02325) SSD: Single Shot MultiBox Detector 
@@ -105,14 +101,14 @@ Hoya012 님께서 친절하게 정리해주신 Object Detection Arcitecture 탄�
 
 
 
-### R-FCN (2016)
+## R-FCN (2016)
 
 - [[code - Keras]](https://github.com/parap1uie-s/Keras-RFCN) by parap1uie-s
 - [[Paper]](https://arxiv.org/abs/1605.06409v2) R-FCN: Object Detection via Region-based Fully Convolutional Networks
 
 
 
-### RetinaNet (2017)
+## RetinaNet (2017)
 
 - [[code - Keras]](https://github.com/fizyr/keras-retinanet) by fizyr
 - [[Paper]](https://arxiv.org/abs/1708.02002) Focal Loss for Dense Object Detection
@@ -120,7 +116,7 @@ Hoya012 님께서 친절하게 정리해주신 Object Detection Arcitecture 탄�
 
 
 
-### Mask R-CNN (2017)
+## Mask R-CNN (2017)
 
 - [[code - Keras]](https://github.com/matterport/Mask_RCNN) by matterport
 - [[Paper]](https://arxiv.org/abs/1703.06870) Mask R-CNN 
